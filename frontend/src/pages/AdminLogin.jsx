@@ -8,7 +8,7 @@ import { Lock, ArrowLeft } from 'lucide-react';
 import { toast } from '../hooks/use-toast';
 
 // ADMIN PASSWORD - Change here if needed
-const ADMIN_PASSWORD = 'YourSecurePassword123';
+const ADMIN_PASSWORD = 'bharatfoods';
 
 const AdminLogin = () => {
   const [password, setPassword] = useState('');
