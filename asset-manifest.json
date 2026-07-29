@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bharatfoods/static/css/main.2e7b4d9d.css",
+    "main.js": "/bharatfoods/static/js/main.f11fb462.js",
+    "index.html": "/bharatfoods/index.html",
+    "main.2e7b4d9d.css.map": "/bharatfoods/static/css/main.2e7b4d9d.css.map",
+    "main.f11fb462.js.map": "/bharatfoods/static/js/main.f11fb462.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e7b4d9d.css",
+    "static/js/main.f11fb462.js"
+  ]
+}
